@@ -44,8 +44,8 @@ x_max = 2 * v0 * sin(alpha) / g
 <!-- STACK -->
 ## Stack Used
 
-[x] NodeJS <br />
-[x] Inquirer package<br />
+✔️  NodeJS <br />
+✔️  Inquirer package<br />
 
 
 <!-- USER STORIES -->
