@@ -96,6 +96,19 @@ An input.json file is already included in the root directory, to simulate how th
  
    ```
 
+<!-- RESULTS -->
+## Results
+
+Here are some screenshots of the results obtained:
+<img width="830" alt="Screenshot 2022-01-28 at 10 10 47" src="https://user-images.githubusercontent.com/25463174/151519082-e9dfa399-db3e-458d-a470-5f8e91d7c1fc.png">
+<br />
+<img width="841" alt="Screenshot 2022-01-28 at 10 08 19" src="https://user-images.githubusercontent.com/25463174/151519143-13063f9b-3d09-4a65-a8c4-0e7513aa97b2.png">
+<br />
+<img width="840" alt="Screenshot 2022-01-28 at 10 08 40" src="https://user-images.githubusercontent.com/25463174/151519240-f7c66257-91c2-4519-921a-b38a9c3c958e.png">
+<br />
+
+
+
 
 <!-- CONTACT -->
 ## Contact
