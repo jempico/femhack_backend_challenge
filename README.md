@@ -24,6 +24,7 @@
     <li><a href="#user-stories">User Stories</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#requirements">Requirements</a></li>
+    <li><a href="#requirements">Results</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -32,7 +33,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-As part of the [International Fem Hack](https://nuwe.io/challenge/computerwoman) Back End Challenge, I've built a CLI app to send the information about ballistic trajectories and compute them as fast as possible:
+During the [International Fem Hack](https://nuwe.io/challenge/computerwoman) held in Jan 2022 in Barcelona, and as part of the Back End Challenge, I built a CLI app to send the information about ballistic trajectories and compute them as fast as possible:
 
 Compute the maximum height of the projectile:
 h_max = ( v0 * v0 ) / ( 2 * g ) 
@@ -100,6 +101,7 @@ An input.json file is already included in the root directory, to simulate how th
 ## Results
 
 Here are some screenshots of the results obtained:
+<br />
 <img width="830" alt="Screenshot 2022-01-28 at 10 10 47" src="https://user-images.githubusercontent.com/25463174/151519082-e9dfa399-db3e-458d-a470-5f8e91d7c1fc.png">
 <br />
 <img width="841" alt="Screenshot 2022-01-28 at 10 08 19" src="https://user-images.githubusercontent.com/25463174/151519143-13063f9b-3d09-4a65-a8c4-0e7513aa97b2.png">
