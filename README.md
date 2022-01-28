@@ -24,7 +24,7 @@
     <li><a href="#user-stories">User Stories</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#requirements">Requirements</a></li>
-    <li><a href="#requirements">Results</a></li>
+    <li><a href="#results">Results</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
